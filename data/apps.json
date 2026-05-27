@@ -71,8 +71,7 @@
                 { "id": "chrome", "name": "Chrome" },
                 { "id": "safari", "name": "Safari" },
                 { "id": "edge", "name": "Edge" },
-                { "id": "opera", "name": "Opera" },
-                { "id": "opera_gx", "name": "Opera GX" }
+                { "id": "opera", "name": "Opera" }
             ],
             "private_alternatives": [
                 { "id": "zen_browser", "name": "Zen Browser" },
@@ -255,6 +254,7 @@
                 { "id": "app_store", "name": "App Store" }
             ],
             "private_alternatives": [
+                { "id": "app_store", "name": "App Store" },
                 { "id": "accrescent", "name": "Accrescent" },
                 { "id": "f_droid", "name": "F-Droid" },
                 { "id": "aurora_store", "name": "Aurora Store" },
@@ -381,8 +381,7 @@
                 { "id": "discourse", "name": "Discourse" },
                 { "id": "gamevox", "name": "GameVox" },
                 { "id": "stoat", "name": "Stoat" },
-                { "id": "fluxer", "name": "Fluxer" },
-                { "id": "revolt", "name": "Revolt" }
+                { "id": "fluxer", "name": "Fluxer" }
             ]
         },
         {
@@ -492,6 +491,7 @@
             ],
             "private_alternatives": [
                 { "id": "arch_linux", "name": "Arch Linux" },
+                { "id": "macos", "name": "macOS" },
                 { "id": "linux_mint", "name": "Linux Mint" },
                 { "id": "qubes_os", "name": "Qubes OS" },
                 { "id": "fedora", "name": "Fedora" },
@@ -517,6 +517,7 @@
             ],
             "private_alternatives": [
                 { "id": "graphene_os", "name": "GrapheneOS" },
+                { "id": "ios", "name": "iOS" },
                 { "id": "calyx_os", "name": "CalyxOS" },
                 { "id": "lineage_os", "name": "LineageOS" }
             ]
@@ -549,7 +550,7 @@
             "mainstream_apps": [
                 { "id": "Microsoft_365", "name": "Microsoft 365" },
                 { "id": "Google_Workspace", "name": "Google Workspace" },
-                { "id": "Apple_iWork", "name": "Apple iWork" },
+                { "id": "Apple_Creator_Studio", "name": "Apple Creator Studio" },
                 { "id": "Zoho_Office", "name": "Zoho Office" },
                 { "id": "WPS", "name": "WPS Office" },
                 { "id": "MobiOffice", "name": "MobiOffice" },
@@ -575,23 +576,9 @@
               { "id": "cloudflare", "name": "Cloudflare Registrar" },
               { "id": "njalla", "name": "Njalla" },
               { "id": "1984_hosting", "name": "1984 Hosting" },
-              { "id": "orangewebsite", "name": "OrangeWebsite" }
+              { "id": "orangewebsite", "name": "OrangeWebsite" },
+              { "id": "marque", "name": "Marque" }
           ]
-        },
-        {
-            "name": "Mobile Carrier",
-            "order": 29,
-            "mainstream_apps": [
-                { "id": "att", "name": "AT&T" },
-                { "id": "verizon", "name": "Verizon" },
-                { "id": "t-mobile", "name": "T-Mobile" },
-                { "id": "spectrum_mobile", "name": "Spectrum Mobile" },
-                { "id": "google_fi", "name": "Google Fi" },
-                { "id": "mint_mobile", "name": "Mint Mobile" }
-            ],
-            "private_alternatives": [
-                { "id": "cape", "name": "Cape Cellular" }
-            ]
         },
         {
             "name": "Code Editor",
@@ -648,7 +635,8 @@
             ],
             "private_alternatives": [
               { "id": "zood", "name": "Zood Location" },
-              { "id": "grid", "name": "GRID" }
+              { "id": "grid", "name": "GRID" },
+              { "id": "find_my_friends", "name": "Find My Friends" }
             ]
         },
         {
@@ -662,7 +650,8 @@
             ],
             "private_alternatives": [
               { "id": "utag", "name": "uTag" },
-              { "id": "fmd", "name": "FMD" }
+              { "id": "fmd", "name": "FMD" },
+              { "id": "find_my", "name": "Find My" }
             ]
         },
         {
