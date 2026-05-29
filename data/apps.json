@@ -372,7 +372,6 @@
             "order": 18,
             "mainstream_apps": [
                 { "id": "discord", "name": "Discord" },
-                { "id": "guilded", "name": "Guilded" },
                 { "id": "slack", "name": "Slack" }
             ],
             "private_alternatives": [
