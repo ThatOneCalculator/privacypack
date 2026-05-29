@@ -504,8 +504,12 @@
                 { "id": "tiger_os", "name": "Tiger OS" },
                 { "id": "opensuse", "name": "openSUSE" },
                 { "id": "zorin_os", "name": "Zorin OS" },
+                { "id": "cachyos", "name": "CachyOS" },
                 { "id": "freebsd", "name": "FreeBSD" },
-                { "id": "openbsd", "name": "OpenBSD" }
+                { "id": "openbsd", "name": "OpenBSD" },
+                { "id": "netbsd", "name": "NetBSD" },
+                { "id": "dragonflybsd", "name": "DragonFlyBSD" },
+                { "id": "ghostbsd", "name": "GhostBSD" }
             ]
         },
         {
